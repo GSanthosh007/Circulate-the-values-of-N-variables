@@ -13,9 +13,17 @@ Get the value from the user for the number of rotation
 Using the slicing concept rotate the list
 
 ### Step 5: 
-### Step 6: 
+### Step 6:
+Name:Santhosh G
+Reference no:212223240152
 ## Program:
-
+```
+def circulate():
+    a=eval(input())
+    n=int(input())
+    a=a[n: ]+a[ :n]
+    print('After circulating the values are:',a)
+```
 ## Output:
 ![Screenshot 2024-03-22 164004](https://github.com/GSanthosh007/Circulate-the-values-of-N-variables/assets/147527586/551443e0-1cea-4ef1-86c5-77f0e4f540c6)
 
