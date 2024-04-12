@@ -14,10 +14,12 @@ Using the slicing concept rotate the list
 
 ### Step 5: 
 ### Step 6:
-Name:Santhosh G
-Reference no:212223240152
+End program
 ## Program:
 ```
+#Program to swap two values.
+#Developed by: Santhosh G
+#RegisterNumber:212223240152
 def circulate():
     a=eval(input())
     n=int(input())
